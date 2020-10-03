@@ -1,21 +1,29 @@
 {
-    "name": "nucampsite",
-    "version": "1.0.0",
-    "description": "This is a website for the fictional campsite review site NuCamp.",
-    "main": "index.html",
-    "scripts": {
-        "lite": "lite-server",
-        "start": "npm run lite",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Jared Pohl",
-    "license": "ISC",
-    "devDependencies": {
-        "lite-server": "^2.5.4"
-    },
-    "dependencies": {
-        "bootstrap": "^4.5.0",
-        "jquery": "^3.5.1",
-        "popper.js": "^1.16.1"
-    }
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "This is a website for the fictional campsite review site NuCamp.",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Pohl",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acepitcher2009/NuCamp-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acepitcher2009/NuCamp-Website/issues"
+  },
+  "homepage": "https://github.com/acepitcher2009/NuCamp-Website#readme"
 }
